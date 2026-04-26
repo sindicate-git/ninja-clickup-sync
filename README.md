@@ -5,6 +5,7 @@ Python-based integration service syncing NinjaOne tickets to ClickUp via REST AP
 > All sensitive data, credentials, and proprietary implementation details have been removed or replaced.  
 >  
 > The purpose of this version is to demonstrate architecture, API integration, and automation design patterns.
+> 
 > I would store this on a VM-Maintenence server
 
 ![Portfolio Sample](https://img.shields.io/badge/status-portfolio--sample-blue)
