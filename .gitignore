@@ -1,4 +1,11 @@
 venv/
 __pycache__/
+*.pyc
+
 config.local.json
 mapping.json
+
+.env
+*.log
+
+.vscode/
