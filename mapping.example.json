@@ -1,0 +1,10 @@
+{
+  "12345": {
+    "clickup_task_id": "abc123xyz",
+    "synced_at": "2026-04-25T15:30:00"
+  },
+  "67890": {
+    "clickup_task_id": "def456uvw",
+    "synced_at": "2026-04-25T15:32:10"
+  }
+}
