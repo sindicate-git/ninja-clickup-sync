@@ -1,0 +1,9 @@
+{
+  "ninja_base_url": "https://app.ninjarmm.com",
+  "ninja_client_id": "PASTE_NINJA_CLIENT_ID_HERE",
+  "ninja_client_secret": "PASTE_NINJA_CLIENT_SECRET_HERE",
+  "ninja_board_id": "PASTE_NINJA_BOARD_ID_HERE",
+
+  "clickup_token": "PASTE_CLICKUP_TOKEN_HERE",
+  "clickup_list_id": "PASTE_CLICKUP_LIST_ID_HERE"
+}
