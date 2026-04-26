@@ -33,7 +33,6 @@ The script:
 
 ## High-Level Flow
 
-```text
 NinjaOne Tickets
       │
       ▼
