@@ -22,3 +22,5 @@ The script acts as a lightweight integration service that:
 - Maintains a mapping to prevent duplicate entries
 
 ## Architecture
+The system uses a lightweight Python sync engine to bridge two platforms:
+See full breakdown: [Architecture Documentation](docs/architecture.md)
